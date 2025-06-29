@@ -41,7 +41,7 @@ To design a fully functional 64-bit ALU and implement it through all VLSI stages
 /synth       → Genus synthesis scripts and netlists  
 /pnr         → Innovus files and GDSII output  
 /docs        → Area power timing Report
-/video       → Cadence demo (schematic + simulation)  
+/video       → Cadence Video (schematic + simulation)  
 
 ## 🖥️ Cadence Video
 
