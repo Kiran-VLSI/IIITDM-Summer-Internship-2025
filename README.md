@@ -40,7 +40,7 @@ To design a fully functional 64-bit ALU and implement it through all VLSI stages
 /sim         → Simulation outputs and .vcd waveforms  
 /synth       → Genus synthesis scripts and netlists  
 /pnr         → Innovus files and GDSII output  
-/docs        → Report and block diagrams  
+/docs        → Area power timing Report
 /video       → Cadence demo (schematic + simulation)  
 
 ## 🖥️ Cadence Video
@@ -57,7 +57,7 @@ This diagram illustrates the entire tool-based flow from Verilog RTL to GDSII la
 ## ✅ Verification Checklist
 
 - [x] RTL Simulation using Xcelium / Incisive  
-- [x] Waveform Verification using GTKWave  
+- [x] Waveform Verification using Xilinx Vivado
 - [x] Logic Synthesis with Genus  
 - [x] Static Timing Analysis  
 - [x] Floorplanning & Placement in Innovus  
