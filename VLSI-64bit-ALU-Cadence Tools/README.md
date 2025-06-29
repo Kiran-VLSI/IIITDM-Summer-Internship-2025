@@ -73,6 +73,10 @@ If division by zero occurs, a constant hex pattern is returned.
 * On **enable** (`enable = 1`): selected operation is performed on the rising edge of the clock.
 
 ---
+## 🎥 Video
+
+📂 [Click here to watch the video on Google Drive](https://drive.google.com/file/d/13mTXvToZVv7FyDJU-vVDAcPtaPiK230d/view?usp=sharing)
+
 
 ## 📦 Module Instantiation (for testbench/reference)
 
