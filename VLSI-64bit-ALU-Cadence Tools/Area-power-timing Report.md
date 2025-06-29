@@ -1,4 +1,4 @@
-# 🧾 Synthesis & Physical Design Report – 64-bit ALU
+# Synthesis & Physical Design Report – 64-bit ALU
 
 This document summarizes the **post-synthesis** and **post-place-and-route (P&R)** reports for the 64-bit ALU designed during the RTL-to-GDSII flow using **Cadence Genus** and **Innovus** tools.
 
