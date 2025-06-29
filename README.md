@@ -43,11 +43,10 @@ To design a fully functional 64-bit ALU and implement it through all VLSI stages
 /docs        → Report and block diagrams  
 /video       → Cadence demo (schematic + simulation)  
 
-## 🖥️ Cadence Demo Video
+## 🖥️ Cadence Video
 
-🎥 File: `cadence_alu_demo.mp4`  
+🎥 File: `cadence_rtl_to_gdsii_flow_64bit_alu.mp4`  
 Shows schematic entry, simulation, and waveform output using Cadence tools.  
-📁 Location: `/video/cadence_alu_demo.mp4`  
 *Note: Please download the video to view it in high resolution.*
 
 ## 📊 RTL to GDSII Flow Diagram
