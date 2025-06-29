@@ -67,7 +67,7 @@ This diagram illustrates the entire tool-based flow from Verilog RTL to GDSII la
 ## 📄 Final Report
 
 The full design documentation is available in:  
-📄 `docs/IIITDM_VLSI_Report.pdf`
+📄 `docs/Intern-report-IIITDM-june-2025.pdf`
 
 ## 📘 Learning Outcomes
 
